@@ -1,0 +1,6 @@
+C:\Users\320050498\source\repos\AlertingClientApp\AlertingUrlsLib\bin\Debug\AlertingUrlsLib.dll
+C:\Users\320050498\source\repos\AlertingClientApp\AlertingUrlsLib\bin\Debug\AlertingUrlsLib.pdb
+C:\Users\320050498\source\repos\AlertingClientApp\AlertingUrlsLib\obj\Debug\AlertingUrlsLib.csprojAssemblyReference.cache
+C:\Users\320050498\source\repos\AlertingClientApp\AlertingUrlsLib\obj\Debug\AlertingUrlsLib.csproj.CoreCompileInputs.cache
+C:\Users\320050498\source\repos\AlertingClientApp\AlertingUrlsLib\obj\Debug\AlertingUrlsLib.dll
+C:\Users\320050498\source\repos\AlertingClientApp\AlertingUrlsLib\obj\Debug\AlertingUrlsLib.pdb
