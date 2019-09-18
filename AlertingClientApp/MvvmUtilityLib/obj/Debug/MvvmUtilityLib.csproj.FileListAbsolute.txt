@@ -1,0 +1,5 @@
+C:\Users\320050498\source\repos\WPF1\MvvmUtilityLib\bin\Debug\MvvmUtilityLib.dll
+C:\Users\320050498\source\repos\WPF1\MvvmUtilityLib\bin\Debug\MvvmUtilityLib.pdb
+C:\Users\320050498\source\repos\WPF1\MvvmUtilityLib\obj\Debug\MvvmUtilityLib.csproj.CoreCompileInputs.cache
+C:\Users\320050498\source\repos\WPF1\MvvmUtilityLib\obj\Debug\MvvmUtilityLib.dll
+C:\Users\320050498\source\repos\WPF1\MvvmUtilityLib\obj\Debug\MvvmUtilityLib.pdb
